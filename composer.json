@@ -1,5 +1,7 @@
 {
   "require": {
-    "phpmailer/phpmailer": "^6.0"
+    "phpmailer/phpmailer": "^6.0",
+    "laravel-admin/media-manager": "^v6.0.0"
+
   }
 }
